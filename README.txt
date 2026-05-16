@@ -30,17 +30,6 @@ Integrantes
 
 Giovanni Mannoel Silva Moura 01804946
 
- Componentes utilizados
-
-- View
-- Text
-- TextInput
-- Pressable/Button
-- FlatList
-- Image
-- Flexbox
-- Navegação entre telas
-
 
 User:admin
 senha:1234
